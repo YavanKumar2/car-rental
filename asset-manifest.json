@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/car-rental/static/css/main.9bb97eed.css",
+    "main.js": "/car-rental/static/js/main.6a9919f9.js",
+    "static/media/remixicon.svg?t=1702724036775": "/car-rental/static/media/remixicon.a377e4c771db384f4bc5.svg",
+    "static/media/remixicon.eot?t=1702724036775": "/car-rental/static/media/remixicon.dd310df16a603c6a396d.eot",
+    "static/media/remixicon.ttf?t=1702724036775": "/car-rental/static/media/remixicon.424fce778c275364c18f.ttf",
+    "static/media/ava-1.jpg": "/car-rental/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/car-rental/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/car-rental/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/ava-4.jpg": "/car-rental/static/media/ava-4.5f15524f7b3f80a834df.jpg",
+    "static/media/remixicon.woff?t=1702724036775": "/car-rental/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
+    "static/media/remixicon.woff2?t=1702724036775": "/car-rental/static/media/remixicon.d690f58194cb889b5487.woff2",
+    "static/media/bmw-offer.png": "/car-rental/static/media/bmw-offer.ecfb9ac1bf7b5ef615a6.png",
+    "static/media/blog-1.jpg": "/car-rental/static/media/blog-1.e4949dd1d3e0ec0543c5.jpg",
+    "static/media/slider-2.jpg": "/car-rental/static/media/slider-2.4cd97469474175a97a63.jpg",
+    "static/media/slider-3.jpg": "/car-rental/static/media/slider-3.ed96ff21726e81c10f40.jpg",
+    "static/media/nissan-offer.png": "/car-rental/static/media/nissan-offer.6eddc86310b7cac538ae.png",
+    "static/media/blog-2.jpg": "/car-rental/static/media/blog-2.dce2eeb8549652564638.jpg",
+    "static/media/toyota-offer-2.png": "/car-rental/static/media/toyota-offer-2.861de085d1c782df9e9d.png",
+    "static/media/offer-toyota.png": "/car-rental/static/media/offer-toyota.4b2435e447a7832d9f4a.png",
+    "static/media/mercedes-offer.png": "/car-rental/static/media/mercedes-offer.d177a4fe9e2002ddb24d.png",
+    "static/media/blog-3.jpg": "/car-rental/static/media/blog-3.0cd3766389d5b56badaa.jpg",
+    "static/media/audiA6.png": "/car-rental/static/media/audiA6.a2c4b70963bac7346f7a.png",
+    "static/media/slider-1.jpg": "/car-rental/static/media/slider-1.df185de6fe26ce7346f2.jpg",
+    "static/media/drive.jpg": "/car-rental/static/media/drive.b72e6f2d1ccdbd6550a9.jpg",
+    "static/media/bentleyContinentalGT (1).png": "/car-rental/static/media/bentleyContinentalGT (1).a25ba81f462473ffc398.png",
+    "static/media/volkswagen (1).png": "/car-rental/static/media/volkswagen (1).0f6434816cf950c169f4.png",
+    "static/media/hondaClarity (1).png": "/car-rental/static/media/hondaClarity (1).3c64d464241134a57b97.png",
+    "static/media/slick.svg": "/car-rental/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/car-rental/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/car-rental/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/car-rental/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/car-rental/index.html",
+    "main.9bb97eed.css.map": "/car-rental/static/css/main.9bb97eed.css.map",
+    "main.6a9919f9.js.map": "/car-rental/static/js/main.6a9919f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb97eed.css",
+    "static/js/main.6a9919f9.js"
+  ]
+}
